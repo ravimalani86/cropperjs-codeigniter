@@ -1,0 +1,21 @@
+body {
+    background: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    margin: 20px 0 20px;
+}
+
+.label { cursor: pointer; }
+.avatar { width: 100px; }
+.img-container img { max-width: 100%; }
+.pad_row { padding: 5px; }
